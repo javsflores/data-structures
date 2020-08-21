@@ -23,8 +23,4 @@ class Queue {
     delete this.storage[String(i)];
     return firstValue;
   }
-
 }
-
-
-var x = new Queue();
